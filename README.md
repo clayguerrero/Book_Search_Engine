@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Description
-Book Search Engine allows users to create an account, login/logout, search, and add/remove books to their collection. This project utilizes the Google Books API that originally used a RESTful API and was refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+Book Search Engine allows users to create an account, login/logout, search, and add/remove books to their collection. This project utilizes the Google Books API that originally used a RESTful API and was refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
 ## Photos
 
@@ -13,4 +13,4 @@ Book Search Engine allows users to create an account, login/logout, search, and 
 ![savedBooks](/images/savedBooks.PNG)
 
 ## Links
-[Deployed Application]()
+[Deployed Application](https://main--silly-chaja-f8c875.netlify.app/)
